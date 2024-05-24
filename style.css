@@ -41,7 +41,7 @@ width:25%;
 padding-right:30px;}
 
 .banner1
-{display: flex-start;
-justify-content: center;}
+{display:flex;
+justify-content:center;}
 
     
